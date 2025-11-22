@@ -1,7 +1,3 @@
-# Tauri + SvelteKit + TypeScript
+# Shoebil
 
-This template should help get you started developing with Tauri, SvelteKit and TypeScript in Vite.
-
-## Recommended IDE Setup
-
-[VS Code](https://code.visualstudio.com/) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer).
+It is a kinda VS code fork that uses svelte and tauri and monaco editor. it is too minimal and it's level of functionality is highly questionable. I have just started it tho.
